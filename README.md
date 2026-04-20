@@ -103,4 +103,4 @@ I successfully published my digital portfolio online, which can now be used to s
 ---
 
 ## 🔗 GitHub Pages Link
-Paste your live link here after deployment
+https://github.com/EntleHlak23/digital-portfolio
